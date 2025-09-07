@@ -12,8 +12,8 @@ A simple yet powerful **Finance Management System** built using **Angular** for 
 7. Reports
 8. Multi-User Management
 9. Future Enhancements
-10. License
 
+   
 ## Features
 - Customer Management: Add, update, and remove customers.  
 - Account Management: Manage multiple accounts for each customer.  
